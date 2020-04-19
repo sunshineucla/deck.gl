@@ -13,11 +13,11 @@
   </a>
 </p>
 
-<h1 align="center">deck.gl | <a href="https://uber.github.io/deck.gl">Website</a></h1>
+<h1 align="center">deck.gl | <a href="https://visgl.github.io/deck.gl">Website</a></h1>
 
 <h5 align="center"> WebGL2-powered, highly performant large-scale data visualization</h5>
 
-[![docs](http://i.imgur.com/mvfvgf0.jpg)](https://uber.github.io/deck.gl)
+[![docs](http://i.imgur.com/mvfvgf0.jpg)](https://visgl.github.io/deck.gl)
 
 
 deck.gl is designed to simplify high-performance, WebGL-based visualization of large data sets. Users can quickly get impressive visual results with minimal effort by composing existing layers, or leverage deck.gl's extensible architecture to address custom needs.
